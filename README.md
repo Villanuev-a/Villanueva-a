@@ -15,6 +15,9 @@ Hello! My name is **José Henrique Villanueva Malavazi**, I'm **19 years old**, 
   - Collaborative project experience
   - Implementation of visual interfaces using **HTML** and **CSS**
   - Strong focus on responsive design and accessibility principles
+ 
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Villanuev-a&layout=compact&theme=tokyonight)](https://github.com/Villanuev-a)
 
 ---
 
